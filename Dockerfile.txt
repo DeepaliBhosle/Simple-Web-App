@@ -1,0 +1,8 @@
+/my-web-app
+  ├── Dockerfile
+  ├── package.json
+  ├── package-lock.json
+  ├── index.js
+  ├── /node_modules
+  └── /public
+
